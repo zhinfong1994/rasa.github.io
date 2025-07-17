@@ -571,7 +571,7 @@ a:hover { text-decoration: underline; }
 }
 @media (max-width: 768px) {
   html { font-size: 15px; }
-  body { padding-top: 0px; }
+  body { padding-top: 56px; }
   .header-inner { height: 56px; }
   .site-logo { height: 32px; }
   .desktop-nav, .desktop-lang { display: none !important; }
@@ -584,7 +584,7 @@ a:hover { text-decoration: underline; }
   .stat, .service-card, .news-item { min-width: unset; max-width: 100%; padding: 1rem 0.7rem; }
   .cta-btn { width: 100%; font-size: 1rem; padding: 1rem 0; }
   .hero {
-    margin-top: 56px;
+    margin-top: 0;
   }
 } 
 
